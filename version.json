@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "buildNumber": 17,
+  "version": "1.4.1",
+  "buildNumber": 18,
   "apkDownloadUrl": "https://github.com/raghebmostafa99-eng/my-life-releases/releases/latest/download/app-release.apk",
-  "sha256Checksum": "9F20B1615961DC1231DDF3074C16C7247674AC031DAF71B63E98116265456E1A",
-  "releaseNotesAr": "تحديث شامل: إصلاح التثبيت التلقائي، مشاركة الإيصالات كصور عالية الدقة، تفصيل أسهم الجمعيات والديون، تطوير محاكي التدفق النقدي، تقارير PDF بالعربية، تكبير ومشاركة الذكريات والمرفقات، وتسديد وتعديل أقساط الجمعيات.",
-  "publishedAtUtc": "2026-11-18T20:25:00Z"
+  "sha256Checksum": "176A6204DE6CADB7997DECE9D3CC82F0AEA53719ECC73E5CE68012E990083141",
+  "releaseNotesAr": "إصدار v1.4.1: اعتماد واجهة التثبيت الرسمية PackageInstaller Session API لتحديث التطبيق بسلاسة على أندرويد 14، مع كافة ميزات الدفعات 1–5.",
+  "publishedAtUtc": "2026-11-18T21:05:00Z"
 }

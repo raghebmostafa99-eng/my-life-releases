@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "buildNumber": 16,
+  "version": "1.4.0",
+  "buildNumber": 17,
   "apkDownloadUrl": "https://github.com/raghebmostafa99-eng/my-life-releases/releases/latest/download/app-release.apk",
-  "sha256Checksum": "3A3BC2779F0E774FDD3E5468C6CB15DD15A3ACBA757909C18F3DFE7399347031",
-  "releaseNotesAr": "تحديث أمني وإصلاحات: حل مشكلة تسليم حزمة التثبيت لمثبت حزم أندرويد (Android Package Installer) على أندرويد 14، وتصحيح مجلد التخزين المؤقت لضمان التثبيت والتحديث المباشر بسلاسة.",
-  "publishedAtUtc": "2026-11-18T02:40:00Z"
+  "sha256Checksum": "9F20B1615961DC1231DDF3074C16C7247674AC031DAF71B63E98116265456E1A",
+  "releaseNotesAr": "تحديث شامل: إصلاح التثبيت التلقائي، مشاركة الإيصالات كصور عالية الدقة، تفصيل أسهم الجمعيات والديون، تطوير محاكي التدفق النقدي، تقارير PDF بالعربية، تكبير ومشاركة الذكريات والمرفقات، وتسديد وتعديل أقساط الجمعيات.",
+  "publishedAtUtc": "2026-11-18T20:25:00Z"
 }

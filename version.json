@@ -2,7 +2,7 @@
   "version": "1.4.2",
   "buildNumber": 19,
   "apkDownloadUrl": "https://github.com/raghebmostafa99-eng/my-life-releases/releases/latest/download/app-release.apk",
-  "sha256Checksum": "BB67A901888B95C6DA6561C832578D9E45863E50D04A84C9E5FE4B4DC9EF6B30",
-  "releaseNotesAr": "إصدار v1.4.2: تحسين مسار التحميل المؤقت للتثبيت التلقائي بسلاسة على أندرويد 14، مع استقرار تام لكافة ميزات المرحلة 13 والدفعات 1–5.",
-  "publishedAtUtc": "2026-11-18T04:00:00Z"
+  "sha256Checksum": "F68578D224680A3445AD994B5CA1C214C5A27ACE7F82C11957A6F52310C4F7F3",
+  "releaseNotesAr": "إصدار v1.4.2: حل جذري لخلل تعارض رقم البناء على أندرويد 14 وتحديث versionCode إلى 2019 لمنع خطأ الحزمة غير الصالحة، مع دعم كامل لكافة مزايا المرحلة 13 والدفعات 1–5.",
+  "publishedAtUtc": "2026-11-19T01:10:00Z"
 }
